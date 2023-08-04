@@ -1,1 +1,2 @@
 - 👋 Hi, I’m Quirin Maier
+-Do you know where are the ZipDatas for the Mauraderboerd for the Flipper Zero is?
